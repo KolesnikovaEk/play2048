@@ -1,0 +1,6 @@
+Необходимые библиотеки:
+1)sys
+2)pygame
+3)os
+4)random
+5)numpy
